@@ -1,0 +1,1 @@
+<img src="http://localhost/misc/display-resize-image/timthumb.php?src=http://localhost/misc/display-resize-image/IMG-01.jpg&w=200&h=80" alt="resized image" />
